@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<title>tanque.io</title>
+<meta name="description" content="OS BR DOMINA">
+<style>body{background-color:#000000;}html,body,#canvas{border:0;margin:0;padding:0;overflow:hidden;}#loading{color:#FFFFFF;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:48pt;font-family:sans-serif;font-weight:bold;cursor:default;}#canvas{position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;cursor:default;}#textInputContainer{display:none;position:absolute;}#textInput{background-color:transparent;font-family:'Ubuntu';padding:0;border:0;outline:none;}#a{width:100%;position:absolute;bottom:0px;}#a1{width:728px;height:90px;background-color:#FFFFFF;margin:24px auto;border-radius:5px;overflow:hidden;}</style>
+</head>
+<body>
+<link href='https://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
+<span id="loading">Carregando...</span>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<canvas id="canvas" width="800" height="800"></canvas>
+<div id="a">
+<div id="a1">
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-0744044009464246" data-ad-slot="2337783307"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({})</script>
+</div>
+</div>
+<script src="c.js" async></script>
+<script src="d.js" async></script>
+<div style="font-family:'Ubuntu'">&nbsp;</div>
+<div id="textInputContainer"><input id="textInput"/></div>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-76454247-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
